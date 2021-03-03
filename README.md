@@ -1,5 +1,4 @@
-# data
+# outlier detecting
+- isolation forest 기반
 
 
-# 1. outlier detecting
-# 2. missing value imputation
